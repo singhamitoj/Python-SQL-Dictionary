@@ -13,3 +13,4 @@ You can enter a word. Click the button (Or press Enter) and the definition will 
 - The definitions are now contained in a text box so that all of the text is visible.
 - The input is no longer case-sensitive.
 - New font for aesthetics.
+- A deb package is available. Install it and run the command "sql-dictionary."
