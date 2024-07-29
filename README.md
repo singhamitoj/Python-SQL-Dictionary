@@ -6,6 +6,7 @@ You can enter a word. Click the button (Or press Enter) and the definition will 
 
 # What doesn't work?
 - Words with multiple definitions will not show all definitions.
+- The deb package doesn't install the following dependencies: tkinter (python3-tk), pkg_resources. Most systems should include them but barebones OSes may not.
 
 # Fixed Bugs/New Features:
 - Pressing the Enter key will bring up the definition.
